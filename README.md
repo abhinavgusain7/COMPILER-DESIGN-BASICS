@@ -4,7 +4,7 @@
 
 *NAME*: ABHINAV GUSAIN
 
-*INTERN ID*: 
+*INTERN ID*: CT04DH617
 
 *DOMAIN*: C PROGRAMMING
 
@@ -16,4 +16,9 @@
 
 
 ##Output
+
+<img width="1065" height="519" alt="Image" src="https://github.com/user-attachments/assets/ddf8d7b4-e37a-44e5-b11d-4ebdab109341" />
+
+
+<img width="640" height="314" alt="Image" src="https://github.com/user-attachments/assets/ac5f43f4-8670-4140-9332-d6576171b990" />
 
